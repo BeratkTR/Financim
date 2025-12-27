@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../Utils/color_utils.dart';
-import '../Models/Transaction.dart';
+import '../utils/color_utils.dart';
+import '../models/transaction.dart';
 
 class WeeklyBarChart extends StatelessWidget {
   final List<Map<String, dynamic>> summaryData;

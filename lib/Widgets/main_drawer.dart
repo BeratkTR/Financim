@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../Screens/home_screen.dart';
-import '../Screens/monthly_view_screen.dart';
+import '../screens/home_screen.dart';
+import '../screens/monthly_view_screen.dart';
 
 class MainDrawer extends StatelessWidget {
   final String currentRoute;

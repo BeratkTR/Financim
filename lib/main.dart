@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 import 'services/db_helper.dart';
-import 'Models/Transaction.dart';
+import 'models/transaction.dart';
 import 'dart:math';
 
 void main() async {

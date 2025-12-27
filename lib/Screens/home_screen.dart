@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import '../Widgets/bar_chart_widget.dart';
-import '../Services/db_helper.dart';
-import '../Models/Transaction.dart';
-import '../Widgets/add_transaction_widget.dart';
-import '../Widgets/main_drawer.dart';
+import '../widgets/bar_chart_widget.dart';
+import '../services/db_helper.dart';
+import '../models/transaction.dart';
+import '../widgets/add_transaction_widget.dart';
+import '../widgets/main_drawer.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:sqflite/sqflite.dart' as sql;
 import 'package:path/path.dart';
-import '../Models/Transaction.dart';
+import '../models/transaction.dart';
 
 class DbHelper {
   static final DbHelper instance = DbHelper._init();

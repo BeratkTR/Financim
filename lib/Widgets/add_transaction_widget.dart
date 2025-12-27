@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../Models/Transaction.dart';
-import '../Services/db_helper.dart';
-import '../Utils/color_utils.dart';
+import '../models/transaction.dart';
+import '../services/db_helper.dart';
+import '../utils/color_utils.dart';
 
 class AddTransactionWidget extends StatefulWidget {
   final VoidCallback onAdded;

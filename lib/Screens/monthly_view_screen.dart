@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '../Services/db_helper.dart';
-import '../Widgets/main_drawer.dart';
-import '../Models/Transaction.dart';
-import '../Widgets/add_transaction_widget.dart';
+import '../services/db_helper.dart';
+import '../widgets/main_drawer.dart';
+import '../models/transaction.dart';
+import '../widgets/add_transaction_widget.dart';
 
 class MonthlyViewScreen extends StatefulWidget {
   const MonthlyViewScreen({super.key});
