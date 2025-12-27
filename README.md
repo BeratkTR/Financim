@@ -12,10 +12,11 @@ Finanscım, kişisel harcamalarınızı ve gelirlerinizi kolayca takip etmenizi 
 
 ## 📸 Uygulama İçi Görüntüler
 
-<div style="display:flex; gap:30px; justify-content:center">
+<p align="center">
   <img src="images/img1.jpeg" width="300" alt="Finanscım Ekran Görüntüsü 1">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/img2.jpeg" width="300" alt="Finanscım Ekran Görüntüsü 2">
-</div>
+</p>
 
 ## 🛠️ Kullanılan Teknolojiler
 
