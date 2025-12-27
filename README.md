@@ -1,16 +1,44 @@
-# z
+# 💰 Finanscım
 
-A new Flutter project.
+Finanscım, kişisel harcamalarınızı ve gelirlerinizi kolayca takip etmenizi sağlayan, Flutter ile geliştirilmiş modern bir finans yönetim uygulamasıdır.
 
-## Getting Started
+## ✨ Özellikler
 
-This project is a starting point for a Flutter application.
+- **Harcama ve Gelir Takibi:** Günlük işlemlerinizi hızlıca kaydedin.
+- **Görsel İstatistikler:** Harcamalarınızı grafikler (Bar Chart) üzerinden analiz edin.
+- **Aylık Görünüm:** Geçmişe dönük aylık finansal özetlerinizi görüntüleyin.
+- **Widget Desteği:** Ana ekran widget'ı ile bakiyenizi anlık takip edin.
+- **Güvenli Depolama:** Verileriniz SQLite ile cihazınızda güvenli bir şekilde saklanır.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Uygulama İçi Görüntüler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div style="display:flex; gap:30px; justify-content:center">
+  <img src="images/img1.jpeg" width="300" alt="Finanscım Ekran Görüntüsü 1">
+  <img src="images/img2.jpeg" width="300" alt="Finanscım Ekran Görüntüsü 2">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+
+- **Flutter & Dart**
+- **SQLite (sqflite):** Yerel veritabanı yönetimi.
+- **FL Chart:** Dinamik veri görselleri.
+- **Home Widget:** Android/iOS ana ekran entegrasyonu.
+- **Intl:** Tarih ve para birimi formatlama.
+
+## 🚀 Kurulum
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/kullaniciadi/finanscim.git
+   ```
+2. Bağımlılıkları yükleyin:
+   ```bash
+   flutter pub get
+   ```
+3. Uygulamayı çalıştırın:
+   ```bash
+   flutter run
+   ```
+
+---
+*Bu proje kişisel finans takibini kolaylaştırmak amacıyla geliştirilmiştir.*
